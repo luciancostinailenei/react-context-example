@@ -1,0 +1,8 @@
+.layout {
+  height: 100vh;
+  display: flex;
+}
+
+.right {
+  width: 100%;
+}
